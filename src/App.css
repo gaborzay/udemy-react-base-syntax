@@ -1,0 +1,35 @@
+.UserInput {
+    border: 1px solid #eee;
+    margin: 3rem auto;
+    width: 80%;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 -.2rem .5rem .1rem red
+}
+
+.UserInput__label {
+    margin-right: 1rem;
+    font-size: 1.5rem;
+}
+
+.UserInput__input {
+    color: white;
+    background-color: black;
+}
+
+.UserOutput {
+    border: 1px #eee solid;
+    width: 80%;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 -.2rem .5rem .1rem black;
+}
+
+.UserOutput__heading {
+    border-bottom: 1px solid #eee;
+}
+
+.UserOutput__paragraph {
+    letter-spacing: .1rem;
+}
